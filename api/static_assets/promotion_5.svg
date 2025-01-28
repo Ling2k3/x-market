@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 351 150">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #6c97c5;
+      }
+
+      .cls-4 {
+        font-size: 9.54px;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #f7f8fb;
+      }
+
+      .cls-4, .cls-6 {
+        font-family: Metropolis-Medium, 'Metropolis Medium';
+        font-weight: 500;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #f4cf68;
+      }
+
+      .cls-12 {
+        font-family: Metropolis-Black, 'Metropolis Black';
+        font-size: 8.43px;
+        font-weight: 800;
+        letter-spacing: .08em;
+      }
+
+      .cls-2, .cls-5 {
+        font-family: Metropolis-Bold, 'Metropolis Bold';
+        font-size: 56.37px;
+      }
+
+      .cls-2, .cls-5, .cls-11 {
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        font-size: 12.39px;
+      }
+
+      .cls-3, .cls-14 {
+        font-family: Metropolis-Regular, 'Metropolis Regular';
+        font-size: 41.21px;
+      }
+
+      .cls-15 {
+        fill: #e0938c;
+      }
+
+      .cls-16 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-16, .cls-17 {
+        fill: #b5d9fe;
+      }
+
+      .cls-14 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        font-family: Metropolis-ExtraBold, 'Metropolis ExtraBold';
+        font-size: 10.28px;
+        letter-spacing: .08em;
+      }
+    </style>
+    <filter id="drop-shadow-1" x="0" y="0" width="351" height="150" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#4a3d37" flood-opacity=".52"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <rect class="cls-16" x="8.83" y="8.5" width="319.18" height="118.84"/>
+      <rect class="cls-17" x="8.29" y="8.5" width="319.18" height="118.84" transform="translate(335.76 135.85) rotate(180)"/>
+      <polygon class="cls-15" points="201.44 8.5 175.02 127.34 327.47 127.34 327.47 8.5 201.44 8.5"/>
+      <polygon class="cls-7" points="313.86 8.5 303.58 127.34 327.47 127.34 328.55 8.5 313.86 8.5"/>
+      <g>
+        <text class="cls-2" transform="translate(32.87 89.97)"><tspan x="0" y="0">50%</tspan></text>
+        <text class="cls-5" transform="translate(31.16 87.42)"><tspan x="0" y="0">50%</tspan></text>
+      </g>
+      <text class="cls-4" transform="translate(32.87 43.86)"><tspan x="0" y="0">UP</tspan><tspan class="cls-9" x="11.25" y="0"> </tspan><tspan class="cls-13" x="12.88" y="0">T</tspan><tspan x="17.36" y="0">O</tspan></text>
+      <text class="cls-6" transform="translate(32.87 107.89)"><tspan x="0" y="0">OFF</tspan></text>
+      <polygon class="cls-7" points="201.44 8.5 175.02 127.34 142.83 127.34 170.39 8.5 201.44 8.5"/>
+      <polygon class="cls-1" points="33.8 8.5 8.29 127.34 8.29 8.5 33.8 8.5"/>
+      <g>
+        <polygon class="cls-8" points="298.62 39.71 302.48 92.78 179.86 84.02 179.99 43.31 298.62 39.71"/>
+        <polygon class="cls-10" points="188 94.03 183.84 34.38 303.65 47.63 306.26 86.57 188 94.03"/>
+        <line class="cls-8" x1="298.62" y1="39.71" x2="302.48" y2="92.78"/>
+      </g>
+      <g>
+        <text class="cls-3" transform="translate(205.58 80.09)"><tspan x="0" y="0">SALE</tspan></text>
+        <text class="cls-14" transform="translate(205.58 78.29)"><tspan x="0" y="0">SALE</tspan></text>
+      </g>
+      <g>
+        <polygon class="cls-7" points="296.43 114.06 294.76 93.39 232.5 96.34 231.98 111.01 296.43 114.06"/>
+        <text class="cls-12" transform="translate(235.75 106.72)"><tspan x="0" y="0">CLICK HERE</tspan></text>
+      </g>
+      <polygon points="290.04 37.55 290.04 20.32 211.7 20.32 211.7 32.37 290.04 37.55"/>
+      <text class="cls-11" transform="translate(216.13 30.19)"><tspan x="0" y="0">JUST NOW!</tspan></text>
+      <polygon class="cls-17" points="201.74 99.52 217.12 103.29 203.17 108.92 201.74 99.52"/>
+      <polygon class="cls-10" points="294.01 124.85 289.57 110.75 300.97 117.8 294.01 124.85"/>
+      <polygon class="cls-10" points="128.98 122.54 119.19 100.18 142 116.62 128.98 122.54"/>
+      <polygon class="cls-8" points="12.62 18.92 33.05 32.87 22.31 14.67 12.62 18.92"/>
+      <polygon class="cls-7" points="24.52 120.89 37.8 109.87 35.15 123.59 24.52 120.89"/>
+      <polygon class="cls-15" points="171.58 35.77 155.16 41.1 165.36 25.19 171.58 35.77"/>
+      <polygon class="cls-8" points="174.84 97.07 153.92 96.36 168.64 111.09 174.84 97.07"/>
+      <polygon class="cls-8" points="131.07 20.32 128.42 34.33 139.06 26.19 131.07 20.32"/>
+      <polygon class="cls-10" points="72.96 16.12 81.93 39.08 89.1 16.12 72.96 16.12"/>
+      <polygon class="cls-15" points="88.58 112.3 81.36 97.74 77.98 113.23 88.58 112.3"/>
+      <g>
+        <rect class="cls-7" x="319.96" y="14.72" width="1.34" height="1.34"/>
+        <rect x="99.02" y="93.41" width="1.25" height="1.25"/>
+        <rect class="cls-7" x="308.18" y="92.78" width="1.25" height="1.25"/>
+        <rect class="cls-7" x="169.89" y="50.14" width=".97" height=".97"/>
+        <rect class="cls-7" x="300.07" y="27.57" width=".97" height=".97"/>
+        <rect x="114.05" y="35.41" width=".97" height=".97"/>
+        <rect x="144.97" y="116.25" width=".97" height=".97"/>
+        <rect class="cls-7" x="17.01" y="101.41" width=".97" height=".97"/>
+        <rect class="cls-7" x="191.78" y="116.79" width="2.02" height="2.02"/>
+        <rect class="cls-7" x="199.72" y="27.93" width="2.02" height="2.02"/>
+        <rect x="64.85" y="19.38" width="1.88" height="1.88"/>
+        <rect x="22.61" y="86.48" width="1.88" height="1.88"/>
+        <rect x="17.32" y="55.2" width="1.31" height="1.31"/>
+      </g>
+    </g>
+  </g>
+</svg>

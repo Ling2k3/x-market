@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 401.89 177.57">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 54.57px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-family: BebasNeue, BebasNeue;
+      }
+
+      .cls-1, .cls-6, .cls-7 {
+        fill: #994c34;
+      }
+
+      .cls-8 {
+        fill: #94eddc;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        font-family: Dosis-Light, 'Dosis Light';
+        font-size: 8px;
+        font-weight: 300;
+      }
+
+      .cls-12, .cls-13, .cls-3, .cls-14, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #f9b3d5;
+        font-size: 21.59px;
+      }
+
+      .cls-3 {
+        font-size: 49.31px;
+      }
+
+      .cls-6 {
+        font-family: BebasNeueBook, BebasNeueBook;
+        font-size: 45.02px;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-14, .cls-16 {
+        opacity: .9;
+      }
+
+      .cls-17 {
+        letter-spacing: .02em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        fill: #ffe783;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-size: 85.6px;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-24 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: .01em;
+      }
+
+      .cls-5 {
+        font-size: 27.7px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="3.27" y1="94.67" x2="401.89" y2="94.67" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9543e"/>
+      <stop offset="1" stop-color="#f9b3d5"/>
+    </linearGradient>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <g>
+        <polygon class="cls-8" points="20 177.57 398.61 177.57 378.61 35.64 0 35.64 20 177.57"/>
+        <polygon class="cls-24" points="381.89 165.63 3.27 165.63 23.27 23.71 401.89 23.71 381.89 165.63"/>
+        <path class="cls-7" d="M373.76,147.35H12.27c.62.61,1.25,1.21,1.88,1.81V12.66c-.62.6-1.25,1.21-1.88,1.81h361.48c-.62-.6-1.25-1.21-1.87-1.81v136.51c0,2.34,3.75,2.34,3.75,0V12.66c0-.99-.85-1.81-1.87-1.81H12.27c-1.02,0-1.88.83-1.88,1.81v136.51c0,.99.85,1.81,1.88,1.81h361.48c2.42,0,2.42-3.63,0-3.63Z"/>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polygon class="cls-16" points="206.94 110.6 64.36 104.49 74.59 12.8 195.93 0 206.94 110.6"/>
+            <g>
+              <text class="cls-6" transform="translate(74.98 53.38)"><tspan x="0" y="0">SUPER</tspan></text>
+              <text class="cls-1" transform="translate(77.05 97.74)"><tspan x="0" y="0">SALE</tspan></text>
+            </g>
+          </g>
+          <text class="cls-12" transform="translate(68.68 119.17)"><tspan class="cls-15" x="0" y="0">L</tspan><tspan x="3.66" y="0">o</tspan><tspan class="cls-23" x="8.06" y="0">r</tspan><tspan x="10.59" y="0">em ipsum dolor sit ame</tspan><tspan class="cls-18" x="88.75" y="0">t</tspan><tspan x="91.37" y="0">, </tspan><tspan class="cls-10" x="94.73" y="0">c</tspan><tspan x="98.26" y="0">onse</tspan><tspan class="cls-26" x="114.27" y="0">c</tspan><tspan class="cls-10" x="117.96" y="0">t</tspan><tspan x="120.56" y="0">etur </tspan><tspan x="-1.49" y="10">adipiscing eli</tspan><tspan class="cls-18" x="42.18" y="10">t</tspan><tspan x="44.8" y="10">. </tspan><tspan class="cls-18" x="48.15" y="10">E</tspan><tspan x="52.06" y="10">tiam po</tspan><tspan class="cls-17" x="77.75" y="10">r</tspan><tspan x="80.56" y="10">tti</tspan><tspan class="cls-10" x="87.73" y="10">t</tspan><tspan x="90.33" y="10">or et elit vitae </tspan><tspan x="-6.91" y="20">hend</tspan><tspan class="cls-23" x="10.49" y="20">r</tspan><tspan x="13.03" y="20">e</tspan><tspan class="cls-19" x="17.04" y="20">r</tspan><tspan x="19.68" y="20">i</tspan><tspan class="cls-18" x="21.56" y="20">t</tspan><tspan x="24.18" y="20">. Nunc </tspan><tspan class="cls-21" x="46.92" y="20">r</tspan><tspan x="49.57" y="20">honcus e</tspan><tspan class="cls-11" x="79.71" y="20">r</tspan><tspan class="cls-20" x="82.28" y="20">a</tspan><tspan x="86.11" y="20">t si</tspan><tspan class="cls-18" x="95.49" y="20">t</tspan><tspan x="98.12" y="20">. </tspan><tspan class="cls-25" x="101.47" y="20">S</tspan><tspan x="105.43" y="20">ample </tspan><tspan class="cls-10" x="128.11" y="20">t</tspan><tspan class="cls-22" x="130.71" y="20">e</tspan><tspan class="cls-26" x="134.69" y="20">x</tspan><tspan x="138.5" y="20">t </tspan><tspan x="49.98" y="30">goes he</tspan><tspan class="cls-23" x="76.16" y="30">r</tspan><tspan class="cls-9" x="78.69" y="30">e</tspan><tspan x="82.61" y="30">.</tspan></text>
+          <g>
+            <polygon class="cls-13" points="183.94 59.73 206.12 43.16 211.01 59.73 183.94 59.73"/>
+            <polygon class="cls-13" points="187.44 74.03 234.59 84.46 218.27 109.8 187.44 74.03"/>
+          </g>
+          <g>
+            <polygon class="cls-13" points="88.44 76.48 66.26 93.05 61.36 76.48 88.44 76.48"/>
+            <polygon class="cls-13" points="84.94 62.18 37.79 51.76 54.1 26.42 84.94 62.18"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <text class="cls-4" transform="translate(234.7 99.79)"><tspan x="0" y="0">50</tspan></text>
+            <g>
+              <text class="cls-3" transform="translate(308.68 75.04)"><tspan x="0" y="0">%</tspan></text>
+              <text class="cls-5" transform="translate(306.27 99.8)"><tspan x="0" y="0">OFF</tspan></text>
+            </g>
+          </g>
+          <g>
+            <polygon class="cls-14" points="346.86 137.04 242.19 137.04 245.19 106.49 342.86 109.94 346.86 137.04"/>
+            <text class="cls-2" transform="translate(242.02 130.01)"><tspan x="0" y="0">SHOP NOW</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

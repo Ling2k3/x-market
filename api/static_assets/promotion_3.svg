@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 150">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #6c97c5;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-7, .cls-2 {
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-2 {
+        font-family: Metropolis-Bold, 'Metropolis Bold';
+        font-size: 56.37px;
+      }
+
+      .cls-8 {
+        font-size: 9.54px;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        font-family: Metropolis-Medium, 'Metropolis Medium';
+        font-weight: 500;
+      }
+
+      .cls-8, .cls-9, .cls-11 {
+        fill: #e0938c;
+      }
+
+      .cls-12 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-13 {
+        fill: #f4cf68;
+      }
+
+      .cls-7 {
+        font-family: Metropolis-ExtraBold, 'Metropolis ExtraBold';
+      }
+
+      .cls-14 {
+        font-family: Metropolis-Black, 'Metropolis Black';
+        font-size: 8.43px;
+        font-weight: 800;
+        letter-spacing: .08em;
+      }
+
+      .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-15 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9 {
+        font-size: 12.39px;
+      }
+
+      .cls-16 {
+        font-size: 10.28px;
+        letter-spacing: .08em;
+      }
+
+      .cls-16, .cls-17, .cls-18 {
+        fill: #b5d9fe;
+      }
+
+      .cls-3, .cls-19 {
+        font-family: Metropolis-Regular, 'Metropolis Regular';
+        font-size: 41.21px;
+      }
+
+      .cls-20 {
+        fill: #f7f8fb;
+      }
+
+      .cls-17 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-19 {
+        fill: #fff;
+      }
+
+      .cls-21 {
+        fill: #9abfe3;
+      }
+    </style>
+    <filter id="drop-shadow-1" x="0" y="0" width="350" height="150" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#4a3d37" flood-opacity=".52"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <rect class="cls-17" x="8" y="8.98" width="319.18" height="118.84"/>
+      <rect class="cls-21" x="8" y="8.98" width="319.18" height="118.84"/>
+      <polygon class="cls-20" points="134.03 8.98 160.45 127.82 8 127.82 8 8.98 134.03 8.98"/>
+      <polygon class="cls-11" points="21.61 8.98 31.88 127.82 8 127.82 6.92 8.98 21.61 8.98"/>
+      <g>
+        <text class="cls-2" transform="translate(32.87 90.45)"><tspan x="0" y="0">75%</tspan></text>
+        <text class="cls-4" transform="translate(31.16 87.9)"><tspan x="0" y="0">75%</tspan></text>
+      </g>
+      <text class="cls-8" transform="translate(32.87 44.34)"><tspan x="0" y="0">UP</tspan><tspan class="cls-12" x="11.25" y="0"> </tspan><tspan class="cls-15" x="12.88" y="0">T</tspan><tspan x="17.36" y="0">O</tspan></text>
+      <text class="cls-9" transform="translate(32.87 108.37)"><tspan x="0" y="0">OFF</tspan></text>
+      <polyline class="cls-1" points="146.25 8.98 146.44 9.78 173.82 127.82 160.45 127.82 134.03 8.98"/>
+      <polygon class="cls-18" points="301.67 8.98 327.18 127.82 327.18 8.98 301.67 8.98"/>
+      <g>
+        <polygon class="cls-6" points="294.98 44.29 297.87 91.43 179.87 80.28 179.99 43.78 294.98 44.29"/>
+        <polygon class="cls-18" points="183.09 88.7 183.09 34.03 303.65 48.11 306.26 87.05 183.09 88.7"/>
+        <line class="cls-6" x1="294.98" y1="44.29" x2="297.87" y2="91.43"/>
+      </g>
+      <g>
+        <text class="cls-3" transform="translate(205.58 80.57)"><tspan x="0" y="0">SALE</tspan></text>
+        <text class="cls-19" transform="translate(205.58 78.77)"><tspan x="0" y="0">SALE</tspan></text>
+      </g>
+      <g>
+        <g>
+          <polygon points="288.47 113.48 288.43 104.13 221.53 95.36 220.89 113.61 288.47 113.48"/>
+          <polygon class="cls-20" points="290.82 111.02 290.77 101.68 223.88 92.9 223.23 111.16 290.82 111.02"/>
+          <polygon class="cls-13" points="292.88 108.57 292.81 94.4 225.93 90.45 225.29 108.7 292.88 108.57"/>
+        </g>
+        <text class="cls-14" transform="translate(230.49 103.64)"><tspan x="0" y="0">SHOP NOW!</tspan></text>
+      </g>
+      <polygon points="290.04 38.03 290.04 20.8 211.7 20.8 211.7 32.85 290.04 38.03"/>
+      <text class="cls-16" transform="translate(216.13 30.67)"><tspan class="cls-7" x="0" y="0">BEST</tspan><tspan class="cls-10" x="24.15" y="0" xml:space="preserve"> OFFER</tspan></text>
+      <polygon class="cls-18" points="201.74 100 217.12 103.77 203.17 109.4 201.74 100"/>
+      <polygon class="cls-20" points="294.01 125.33 289.57 111.23 300.97 118.28 294.01 125.33"/>
+      <polygon class="cls-18" points="128.98 123.02 119.19 100.66 142 117.09 128.98 123.02"/>
+      <polygon class="cls-1" points="12.62 19.4 33.05 33.35 22.31 15.15 12.62 19.4"/>
+      <polygon class="cls-21" points="24.52 121.37 37.8 110.35 35.15 124.07 24.52 121.37"/>
+      <polygon class="cls-5" points="174.84 97.55 153.92 96.84 168.64 111.57 174.84 97.55"/>
+      <polygon class="cls-5" points="131.07 20.8 128.42 34.81 139.06 26.67 131.07 20.8"/>
+      <polygon class="cls-18" points="72.96 16.6 81.93 39.56 89.1 16.6 72.96 16.6"/>
+      <polygon class="cls-11" points="88.58 112.78 81.36 98.22 77.98 113.71 88.58 112.78"/>
+      <g>
+        <rect class="cls-20" x="162.4" y="20.13" width="1.34" height="1.34"/>
+        <rect class="cls-20" x="319.96" y="15.2" width="1.34" height="1.34"/>
+        <rect class="cls-20" x="199.08" y="19.25" width="1.25" height="1.25"/>
+        <rect x="99.02" y="93.89" width="1.25" height="1.25"/>
+        <rect class="cls-20" x="308.18" y="93.26" width="1.25" height="1.25"/>
+        <rect class="cls-20" x="169.89" y="50.62" width=".97" height=".97"/>
+        <rect class="cls-20" x="297.65" y="37.06" width=".97" height=".97"/>
+        <rect x="114.05" y="35.89" width=".97" height=".97"/>
+        <rect class="cls-20" x="17.01" y="101.89" width=".97" height=".97"/>
+        <rect class="cls-11" x="99.65" y="26.42" width=".72" height=".72"/>
+        <rect class="cls-11" x="111.1" y="109.99" width="1.51" height="1.51"/>
+        <rect class="cls-11" x="155.86" y="70.22" width="1.51" height="1.51"/>
+        <rect class="cls-11" x="126.07" y="16.24" width=".72" height=".72"/>
+        <rect class="cls-20" x="191.78" y="117.27" width="2.02" height="2.02"/>
+        <rect x="46.24" y="24.25" width="1.88" height="1.88"/>
+        <rect x="19.4" y="66.75" width="1.31" height="1.31"/>
+        <rect class="cls-11" x="59.99" y="111.64" width="1.29" height="1.29"/>
+      </g>
+    </g>
+  </g>
+</svg>
